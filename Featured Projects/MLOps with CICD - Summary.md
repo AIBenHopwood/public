@@ -17,6 +17,10 @@ The full system was deployed in a secure AWS environment to align with healthcar
 - IAM for role-based access control  
 - CloudWatch for monitoring and alerts  
 
+<img width="1441" height="810" alt="Systems AWS Architecture" src="https://github.com/user-attachments/assets/12389295-e43f-4ff1-81ff-ebc78927ede1" />
+
+
+
 This setup ensured sensitive data was isolated from public networks and handled using industry-standard security practices.
 
 ---
