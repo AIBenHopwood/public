@@ -40,7 +40,16 @@ Both models were trained and optimized using:
 - Data augmentation improved generalization  
 - Hyperparameter tuning significantly boosted performance  
 
+<img width="1977" height="2381" alt="Model Comparison" src="https://github.com/user-attachments/assets/2d9f687f-0357-4a69-b835-857cb0b19c5f" />
+
+
+
 The models successfully learned stylistic differences between composers based on musical structure.
+
+
+Hypertuing was reasonably successful:
+<img width="715" height="591" alt="tuning" src="https://github.com/user-attachments/assets/d6acf5d3-4014-4c1f-b3db-feae0b358347" />
+
 
 ---
 
