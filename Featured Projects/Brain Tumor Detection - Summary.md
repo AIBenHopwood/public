@@ -45,6 +45,7 @@ All models were trained using Dice loss and evaluated on segmentation and classi
 ResNet-50 achieved the strongest overall performance, while U-Net offered an excellent balance of accuracy and computational efficiency.
 
 Hypertuning With Optuna:
+
 <img width="590" height="486" alt="Hypertuning" src="https://github.com/user-attachments/assets/5f8f6d38-8f07-49c0-a384-6020fd380f12" />
 
 
