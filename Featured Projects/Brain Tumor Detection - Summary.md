@@ -2,8 +2,7 @@
 
 The project developed a reasonably high-performance algorithm for analyzing brain tumor MRI scans. By automating detection and segmentation, the model supports clinicians by reducing their workload and improving diagnostic accuracy. A vision of their workflow:
 
-<img width="1076" height="327" alt="System Overview" src="https://github.com/user-attachments/assets/4cd2af3d-05c1-4f26-b068-be336dd9566e" />
-
+![Alt text](images/MRI System Process.png)
 
 Accurate segmentation of medical images is critical for improving clinical decision-making and patient outcomes, particularly in complex cases involving brain tumors. This work explores how modern deep learning models can assist radiologists by quickly and consistently identifying tumor regions in MRI images.
 
