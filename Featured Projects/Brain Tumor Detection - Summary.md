@@ -1,6 +1,9 @@
 # 🧠 Brain Tumor Detection & Segmentation with Deep Learning
 
-The project revolves around the development of a high-performance algorithm for analyzing brain tumor MRI scans. By automating the detection and segmentation processes, the model supports clinicians by reducing their workload and enhancing diagnostic accuracy.
+The project developed a reasonably high-performance algorithm for analyzing brain tumor MRI scans. By automating detection and segmentation, the model supports clinicians by reducing their workload and improving diagnostic accuracy. A vision of their workflow:
+
+<img width="1076" height="327" alt="System Overview" src="https://github.com/user-attachments/assets/4cd2af3d-05c1-4f26-b068-be336dd9566e" />
+
 
 Accurate segmentation of medical images is critical for improving clinical decision-making and patient outcomes, particularly in complex cases involving brain tumors. This work explores how modern deep learning models can assist radiologists by quickly and consistently identifying tumor regions in MRI images.
 
@@ -40,6 +43,10 @@ All models were trained using Dice loss and evaluated on segmentation and classi
 | VGG-19 | 0.758 | 0.614 | 0.995 | 0.816 | 0.768 | 0.774 |
 
 ResNet-50 achieved the strongest overall performance, while U-Net offered an excellent balance of accuracy and computational efficiency.
+
+Hypertuning With Optuna:
+<img width="590" height="486" alt="Hypertuning" src="https://github.com/user-attachments/assets/5f8f6d38-8f07-49c0-a384-6020fd380f12" />
+
 
 ---
 
