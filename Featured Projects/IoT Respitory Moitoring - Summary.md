@@ -37,7 +37,10 @@ The data was segmented into short time windows for model training and evaluation
 Two main deep learning approaches were used:
 
 - **LSTM** for learning temporal breathing patterns  
-- **CNN + LSTM** for extracting features from spectrograms and modeling time dependencies  
+- **CNN + LSTM** for extracting features from spectrograms and modeling time dependencies
+
+ <img width="1158" height="227" alt="IoT feature extract" src="https://github.com/user-attachments/assets/1806c2db-1189-461d-8c0a-f9bc33eb8049" />
+
 
 Models were trained to predict:
 
@@ -67,6 +70,9 @@ A Tableau dashboard was created to display:
 - Patient compliance indicators  
 
 This supports telemedicine workflows and clinician–patient communication.
+
+<img width="719" height="576" alt="IoT Predictive dashboard" src="https://github.com/user-attachments/assets/f0bcdc06-7cd4-4497-b580-16ab2eca99e6" />
+
 
 ---
 
