@@ -1,6 +1,6 @@
 # 🤖 Multi-Turn QA Chatbot with RAG and Fine-Tuned LLMs
 
-This project centers on building a multi-turn question-answering chatbot capable of responding to user queries using real reference content. By combining fine-tuned transformer models with Retrieval-Augmented Generation (RAG), the system improves factual accuracy and reduces hallucinations compared to standalone language models.
+This project focused on building a multi-turn question-answering chatbot that responds to user queries using real reference content. By combining fine-tuned transformer models with Retrieval-Augmented Generation (RAG), the system improves factual accuracy and reduces hallucinations compared to standalone language models.
 
 The chatbot was designed to simulate how AI systems can assist users in navigating large text corpora, such as medical literature, technical documentation, or knowledge bases.
 
@@ -15,6 +15,10 @@ The chatbot integrates three core components:
 - **Conversation memory** to support multi-turn interactions  
 
 Users can ask follow-up questions, and the system maintains context across multiple turns.
+
+Here is the Gradio GUI we tested:
+<img width="1728" height="992" alt="final_chatbot" src="https://github.com/user-attachments/assets/789e8a40-3b36-46ac-831e-8817e8c1f859" />
+
 
 ---
 
