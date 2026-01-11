@@ -1,4 +1,4 @@
-<img width="951" height="445" alt="PHI Blinding" src="https://github.com/user-attachments/assets/748b4608-d1a0-42b7-baf2-73ac7cb1239d" /># 🔒 PHI Detection & De-Identification for Clinical Text
+# 🔒 PHI Detection & De-Identification for Clinical Text
 
 This project focuses on developing an AI system to automatically detect and remove Protected Health Information (PHI) from clinical documents. By automating the de-identification process, the system helps protect patient privacy while enabling safer use of medical text for research, analytics, and AI development.
 
