@@ -42,8 +42,6 @@ Deep learning models for pixel-level brain tumor segmentation to support AI-assi
 AI system to detect and anonymize Protected Health Information in clinical notes using transformer-based NER.  
 *Healthcare NLP • Privacy-preserving AI • Regulatory awareness*  
 
-> Metrics were intentionally contextualized due to synthetic data and potential leakage — emphasizing engineering rigor over inflated scores.
-
 ---
 
 ### 🧾 SQuAD Chatbot with RAG  
