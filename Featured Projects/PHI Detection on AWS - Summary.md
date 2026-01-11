@@ -1,8 +1,11 @@
-# 🔒 PHI Detection & De-Identification for Clinical Text
+<img width="951" height="445" alt="PHI Blinding" src="https://github.com/user-attachments/assets/748b4608-d1a0-42b7-baf2-73ac7cb1239d" /># 🔒 PHI Detection & De-Identification for Clinical Text
 
 This project focuses on developing an AI system to automatically detect and remove Protected Health Information (PHI) from clinical documents. By automating the de-identification process, the system helps protect patient privacy while enabling safer use of medical text for research, analytics, and AI development.
 
 Because the project involved sensitive healthcare data, all model training and data storage were hosted in a **secure AWS environment** with a **VPN-based private network** to align with HIPAA-style security and privacy requirements.
+
+<img width="990" height="532" alt="PHI Process" src="https://github.com/user-attachments/assets/c99eb349-597d-40cd-b7ee-f50870e062ff" />
+
 
 ---
 
@@ -40,6 +43,9 @@ The primary model used was **ClinicalBERT**, a transformer pretrained on medical
 - BIO tagging scheme  
 - Optimized with AdamW  
 - Fine-tuned for clinical language patterns  
+
+<img width="951" height="445" alt="PHI Blinding" src="https://github.com/user-attachments/assets/d4f1b2f6-e324-4bea-9454-2e2e08c5be4d" />
+
 
 A traditional BiLSTM model was also evaluated but performed significantly worse than the transformer-based approach.
 
